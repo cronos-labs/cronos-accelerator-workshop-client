@@ -1,4 +1,4 @@
-# Cronos Accelerator 2023 - Client
+# Seoul Web 3.0 Festival - Workshop - Client
 
 ## Getting Started
 
